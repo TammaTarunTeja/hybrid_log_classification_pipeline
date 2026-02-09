@@ -1,0 +1,389 @@
+================================================================================
+Cluster 0 (1017 logs)
+================================================================================
+                                          log_message target_label
+0   nova.osapi_compute.wsgi.server [req-b9718cd8-f...  HTTP Status
+3   nova.osapi_compute.wsgi.server [req-4895c258-b...  HTTP Status
+4   nova.osapi_compute.wsgi.server [req-ee8bc8ba-9...  HTTP Status
+5   nova.osapi_compute.wsgi.server [req-f0bffbc3-5...  HTTP Status
+9   nova.osapi_compute.wsgi.server [req-2bf7cfee-a...  HTTP Status
+12  nova.osapi_compute.wsgi.server [req-d4f8d0c2-4...  HTTP Status
+16  nova.osapi_compute.wsgi.server [req-6fe0e366-f...  HTTP Status
+17  nova.osapi_compute.wsgi.server [req-5f1c2027-e...  HTTP Status
+19  nova.osapi_compute.wsgi.server [req-945d1f31-a...  HTTP Status
+20  nova.osapi_compute.wsgi.server [req-033d97b9-6...  HTTP Status
+
+================================================================================
+Cluster 5 (147 logs)
+================================================================================
+                                           log_message    target_label
+8    nova.compute.claims [req-a07ac654-8e81-416d-bf...  Resource Usage
+26   nova.compute.claims [req-d6986b54-3735-4a42-90...  Resource Usage
+40   nova.compute.claims [req-72b4858f-049e-49e1-b3...  Resource Usage
+58   nova.compute.claims [req-5c8f52bd-8e3c-41f0-95...  Resource Usage
+61   nova.compute.claims [req-d38f479d-9bb9-4276-96...  Resource Usage
+64   nova.compute.claims [req-d82fab16-60f8-4c9f-bd...  Resource Usage
+109  nova.compute.claims [req-868a5460-dbb6-416b-b4...  Resource Usage
+138  nova.compute.claims [req-2d658d2c-7eff-414e-a6...  Resource Usage
+152  nova.compute.claims [req-29a09cdb-3169-4c40-8b...  Resource Usage
+177  nova.compute.claims [req-9118475d-6e72-48fa-9d...  Resource Usage
+
+================================================================================
+Cluster 11 (100 logs)
+================================================================================
+                  log_message target_label
+27   User User685 logged out.  User Action
+57    User User395 logged in.  User Action
+85    User User225 logged in.  User Action
+88   User User494 logged out.  User Action
+126   User User900 logged in.  User Action
+211  User User272 logged out.  User Action
+214  User User706 logged out.  User Action
+219  User User881 logged out.  User Action
+220  User User313 logged out.  User Action
+256  User User641 logged out.  User Action
+
+================================================================================
+Cluster 13 (86 logs)
+================================================================================
+                                log_message         target_label
+30   Backup started at 2025-05-14 07:06:55.  System Notification
+44   Backup started at 2025-02-15 20:00:19.  System Notification
+108    Backup ended at 2025-08-08 13:06:23.  System Notification
+128  Backup started at 2025-11-14 08:27:43.  System Notification
+191  Backup started at 2025-12-09 10:19:11.  System Notification
+209  Backup started at 2025-01-15 04:36:39.  System Notification
+236  Backup started at 2025-08-29 15:17:18.  System Notification
+237    Backup ended at 2025-06-01 06:27:38.  System Notification
+264    Backup ended at 2025-11-16 08:17:13.  System Notification
+325    Backup ended at 2025-07-18 17:06:54.  System Notification
+
+================================================================================
+Cluster 7 (60 logs)
+================================================================================
+                                           log_message    target_label
+13   Multiple bad login attempts detected on user 8...  Security Alert
+53   Multiple login failures occurred on user 9052 ...  Security Alert
+72    User 7153 made multiple incorrect login attempts  Security Alert
+74    User 8300 made multiple incorrect login attempts  Security Alert
+113  Multiple login failures were detected for user...  Security Alert
+130  Multiple failed login attempts were reported f...  Security Alert
+168  Multiple incorrect login attempts were made by...  Security Alert
+173      User 9167 experienced repeated login failures  Security Alert
+295  Repeated failed login attempts occurred for us...  Security Alert
+318      User 9131 made multiple failed login attempts  Security Alert
+
+================================================================================
+Cluster 8 (60 logs)
+================================================================================
+                        log_message         target_label
+15   Backup completed successfully.  System Notification
+52   Backup completed successfully.  System Notification
+54   Backup completed successfully.  System Notification
+81   Backup completed successfully.  System Notification
+83   Backup completed successfully.  System Notification
+99   Backup completed successfully.  System Notification
+114  Backup completed successfully.  System Notification
+142  Backup completed successfully.  System Notification
+151  Backup completed successfully.  System Notification
+183  Backup completed successfully.  System Notification
+
+================================================================================
+Cluster 21 (58 logs)
+================================================================================
+                          log_message         target_label
+50   System updated to version 3.9.1.  System Notification
+176  System updated to version 5.5.4.  System Notification
+185  System updated to version 4.7.4.  System Notification
+192  System updated to version 3.7.7.  System Notification
+260  System updated to version 2.6.2.  System Notification
+396  System updated to version 3.8.2.  System Notification
+439  System updated to version 1.9.3.  System Notification
+449  System updated to version 4.8.6.  System Notification
+457  System updated to version 5.0.7.  System Notification
+490  System updated to version 1.2.9.  System Notification
+
+================================================================================
+Cluster 3 (57 logs)
+================================================================================
+                                           log_message target_label
+6            Shard 6 replication task ended in failure        Error
+45   Data replication task for shard 14 did not com...        Error
+98           Data replication task failed for shard 17        Error
+104             Replication of data to shard 14 failed        Error
+190  Data replication task for shard 6 did not comp...        Error
+228                           Shard 1 data copy failed        Error
+262  Data replication for shard 13 encountered an i...        Error
+263                Shard 8 synchronization task failed        Error
+286     Data replication for shard 16 was unsuccessful        Error
+297          Shard 2 experienced a replication failure        Error
+
+================================================================================
+Cluster 4 (53 logs)
+================================================================================
+                                           log_message         target_label
+7    File data_6169.csv uploaded successfully by us...  System Notification
+14   File data_3847.csv uploaded successfully by us...  System Notification
+48   File data_7366.csv uploaded successfully by us...  System Notification
+129  File data_1206.csv uploaded successfully by us...  System Notification
+194  File data_1503.csv uploaded successfully by us...  System Notification
+244  File data_2127.csv uploaded successfully by us...  System Notification
+281  File data_9318.csv uploaded successfully by us...  System Notification
+310  File data_5435.csv uploaded successfully by us...  System Notification
+741  File data_4085.csv uploaded successfully by us...  System Notification
+841  File data_7222.csv uploaded successfully by us...  System Notification
+
+================================================================================
+Cluster 17 (52 logs)
+================================================================================
+                                           log_message    target_label
+38   Denied access attempt on restricted account Ac...  Security Alert
+67   Unauthorized login attempt on protected accoun...  Security Alert
+200    Account Account9437 blocked due to failed login  Security Alert
+206  Account Account7999 access denied due to login...  Security Alert
+306  Invalid login attempt made on secured account ...  Security Alert
+409  Account Account8057 login attempt was not succ...  Security Alert
+422  Invalid login attempt made on secured account ...  Security Alert
+487   Restricted account Account9226 had login failure  Security Alert
+524    Account Account9938 blocked due to failed login  Security Alert
+564  Login to secured account Account6057 was not p...  Security Alert
+
+================================================================================
+Cluster 6 (51 logs)
+================================================================================
+                                           log_message    target_label
+11     Critical system unit error: unit ID Component55  Critical Error
+35   System component malfunction: component ID Com...  Critical Error
+115  Critical system element is down: element ID Co...  Critical Error
+175  Essential system part malfunction: part ID Com...  Critical Error
+204  Failure occurred in critical system component:...  Critical Error
+221  Essential system part malfunction: part ID Com...  Critical Error
+249  System component malfunction: component ID Com...  Critical Error
+278  Failure of critical system component: componen...  Critical Error
+349  System component has stopped working: componen...  Critical Error
+504  Critical system equipment failure: equipment I...  Critical Error
+
+================================================================================
+Cluster 32 (51 logs)
+================================================================================
+                              log_message         target_label
+96   Disk cleanup completed successfully.  System Notification
+160  Disk cleanup completed successfully.  System Notification
+208  Disk cleanup completed successfully.  System Notification
+225  Disk cleanup completed successfully.  System Notification
+252  Disk cleanup completed successfully.  System Notification
+353  Disk cleanup completed successfully.  System Notification
+443  Disk cleanup completed successfully.  System Notification
+466  Disk cleanup completed successfully.  System Notification
+516  Disk cleanup completed successfully.  System Notification
+598  Disk cleanup completed successfully.  System Notification
+
+================================================================================
+Cluster 16 (48 logs)
+================================================================================
+                                  log_message         target_label
+36   System reboot initiated by user User243.  System Notification
+92   System reboot initiated by user User471.  System Notification
+139  System reboot initiated by user User216.  System Notification
+140  System reboot initiated by user User639.  System Notification
+161  System reboot initiated by user User819.  System Notification
+163  System reboot initiated by user User938.  System Notification
+307  System reboot initiated by user User929.  System Notification
+365  System reboot initiated by user User533.  System Notification
+508  System reboot initiated by user User591.  System Notification
+552  System reboot initiated by user User421.  System Notification
+
+================================================================================
+Cluster 20 (48 logs)
+================================================================================
+                                           log_message    target_label
+46     User 7662 tried to bypass API security measures  Security Alert
+159  User 2367 failed to provide valid API access c...  Security Alert
+229         User 3569 made an unauthorized API request  Security Alert
+279  Unauthorized user 2968 tried to access restric...  Security Alert
+368  User 2186 attempted to access API without prop...  Security Alert
+384  Unapproved API login attempt from user 1618 re...  Security Alert
+435  Security alert: unauthorized API access attemp...  Security Alert
+480  Unapproved API login attempt from user 5771 re...  Security Alert
+517  Unauthenticated API access attempt from user 7...  Security Alert
+533  API access denied due to unauthorized credenti...  Security Alert
+
+================================================================================
+Cluster 9 (44 logs)
+================================================================================
+                                  log_message target_label
+18   Account with ID 5351 created by User634.  User Action
+122  Account with ID 7813 created by User373.  User Action
+205  Account with ID 9827 created by User965.  User Action
+259  Account with ID 2520 created by User546.  User Action
+273  Account with ID 2300 created by User964.  User Action
+332  Account with ID 7505 created by User322.  User Action
+381  Account with ID 4810 created by User581.  User Action
+403  Account with ID 4995 created by User559.  User Action
+419  Account with ID 3889 created by User852.  User Action
+527  Account with ID 1478 created by User605.  User Action
+
+================================================================================
+Cluster 1 (39 logs)
+================================================================================
+                                          log_message    target_label
+1      Email service experiencing issues with sending  Critical Error
+10           Email server encountered a sending fault           Error
+217        Mail service encountered a delivery glitch           Error
+248  Service disruption caused by email sending error  Critical Error
+265         Email system had a problem sending emails           Error
+361         Email service experienced a sending issue           Error
+450        Email delivery system encountered an error           Error
+477    Email transmission error caused service impact  Critical Error
+570         Email service impacted by sending failure  Critical Error
+678            Email delivery problem affected system  Critical Error
+
+================================================================================
+Cluster 10 (30 logs)
+================================================================================
+                                           log_message    target_label
+22   nova.compute.resource_tracker [req-addc1839-2e...  Resource Usage
+82   nova.compute.resource_tracker [req-addc1839-2e...  Resource Usage
+120  nova.compute.resource_tracker [req-addc1839-2e...  Resource Usage
+153  nova.compute.resource_tracker [req-addc1839-2e...  Resource Usage
+238  nova.compute.resource_tracker [req-addc1839-2e...  Resource Usage
+311  nova.compute.resource_tracker [req-addc1839-2e...  Resource Usage
+491  nova.compute.resource_tracker [req-addc1839-2e...  Resource Usage
+590  nova.compute.resource_tracker [req-addc1839-2e...  Resource Usage
+651  nova.compute.resource_tracker [req-addc1839-2e...  Resource Usage
+781  nova.compute.resource_tracker [req-addc1839-2e...  Resource Usage
+
+================================================================================
+Cluster 34 (25 logs)
+================================================================================
+                                            log_message    target_label
+100   Abnormal behavior found on server 10, possible...  Security Alert
+169     Security alert: suspicious activity on server 1  Security Alert
+357   Anomalous activity identified on server 23, se...  Security Alert
+411   Server 27 experienced potential security incid...  Security Alert
+467   Server 36 experienced potential security incid...  Security Alert
+562    Security alert: suspicious activity on server 31  Security Alert
+615   Abnormal behavior found on server 50, possible...  Security Alert
+723   Server 31 has been flagged for suspicious acti...  Security Alert
+751   Server 46 has been compromised, potential secu...  Security Alert
+1045  Security issue detected on server 23, investig...  Security Alert
+
+================================================================================
+Cluster 14 (20 logs)
+================================================================================
+                                           log_message    target_label
+32     Detection of multiple disk faults in RAID setup  Critical Error
+69    RAID array suffered multiple hard drive failures  Critical Error
+102       RAID array experienced multiple disk crashes  Critical Error
+223  Multiple hard drive issues in RAID configurati...  Critical Error
+300  Identification of multiple faulty disks in RAI...  Critical Error
+360  RAID system detected multiple disk failures an...  Critical Error
+399  RAID system reported multiple hard drive malfu...  Critical Error
+418  RAID configuration had multiple disk failures ...  Critical Error
+547   Multiple disk errors found in RAID configuration  Critical Error
+572  RAID array experienced multiple disk failures ...  Critical Error
+
+================================================================================
+Cluster 52 (20 logs)
+================================================================================
+                                            log_message target_label
+282   Service health check was not successful becaus...        Error
+528   Invalid SSL certificate resulted in a failed s...        Error
+545   Service health check failure was due to an inv...        Error
+601   An issue with the SSL certificate caused the s...        Error
+734   Service health check failure was caused by an ...        Error
+753   SSL certificate validation errors resulted in ...        Error
+940   The service health check could not complete du...        Error
+971   Service health check was unsuccessful due to a...        Error
+1003  Invalid SSL certificate configuration led to a...        Error
+1072  SSL certificate validation issues caused the s...        Error
+
+================================================================================
+Cluster 53 (20 logs)
+================================================================================
+                                            log_message target_label
+283   Module X experienced an invalid data format issue        Error
+344          Input format mismatch occurred in module X        Error
+378   Module X reported an error in input format val...        Error
+454   Module X failed to process input due to format...        Error
+530   Input data format in module X was invalid or c...        Error
+620   Input to module X did not conform to expected ...        Error
+645   Format of input data in module X was not recog...        Error
+744   Error in input format occurred during module X...        Error
+1110       Invalid input format caused module X to fail        Error
+1239   Input to module X was not in the expected format        Error
+
+================================================================================
+Cluster 18 (17 logs)
+================================================================================
+                                            log_message    target_label
+42    Boot process terminated unexpectedly due to ke...  Critical Error
+416   System encountered kernel panic during initial...  Critical Error
+827      Boot process was stopped by kernel malfunction  Critical Error
+956   System encountered kernel failure during bootu...  Critical Error
+1073           Boot sequence failed due to kernel panic  Critical Error
+1119             System boot was halted by kernel issue  Critical Error
+1173  Kernel issue prevented system from booting cor...  Critical Error
+1223  System crash happened due to kernel problem du...  Critical Error
+1224       Kernel panic terminated system boot sequence  Critical Error
+1399   Kernel error terminated boot process prematurely  Critical Error
+
+================================================================================
+Cluster 25 (13 logs)
+================================================================================
+                                           log_message    target_label
+62             System configuration is no longer valid  Critical Error
+453   Configuration is corrupted throughout the system  Critical Error
+578        Cross-system configuration failure occurred  Critical Error
+731        System configuration is experiencing errors  Critical Error
+917           Configuration malfunction is system-wide  Critical Error
+981              Entire system configuration is faulty  Critical Error
+1876    System configuration errors have been detected  Critical Error
+2052    System configuration has been severely damaged  Critical Error
+2090    System-wide configuration failure has occurred  Critical Error
+2153          System configuration files are corrupted  Critical Error
+
+================================================================================
+Cluster 42 (13 logs)
+================================================================================
+                                            log_message    target_label
+195   User 5127 has escalated admin privileges witho...  Security Alert
+270              User 9745 has escalated to admin level  Security Alert
+299       User 8483 escalated privileges to admin level  Security Alert
+414              User 1987 has escalated to admin level  Security Alert
+604       User 8395 escalated privileges to admin level  Security Alert
+625              User 8693 has escalated to admin level  Security Alert
+705            User 9202 has admin privileges escalated  Security Alert
+809   User 4373 has escalated admin privileges witho...  Security Alert
+1093  Unauthorized admin privilege escalation by use...  Security Alert
+1262           User 1985 has admin privileges escalated  Security Alert
+
+================================================================================
+Cluster 59 (12 logs)
+================================================================================
+                                            log_message    target_label
+354   Potential security threat: Admin privilege esc...  Security Alert
+421      Admin privilege escalation alert for user 2893  Security Alert
+747      Admin privilege escalation alert for user 8532  Security Alert
+904   Potential security threat: Admin privilege esc...  Security Alert
+1334  Warning: Potential admin privilege escalation ...  Security Alert
+1452  Alert: Admin privilege escalation for user 685...  Security Alert
+1626  Alert: Admin privilege escalation for user 572...  Security Alert
+1772  Warning: Potential admin privilege escalation ...  Security Alert
+1919  Alert: Admin privilege escalation for user 972...  Security Alert
+2016  Warning: Potential admin privilege escalation ...  Security Alert
+
+================================================================================
+Cluster 26 (11 logs)
+================================================================================
+                                            log_message    target_label
+76           Privilege elevation detected for user 5038  Security Alert
+103   Elevation of admin privileges detected for use...  Security Alert
+125   Elevation of admin privileges detected for use...  Security Alert
+345   User 6069 has been granted elevated admin priv...  Security Alert
+386     Admin privilege elevation warning for user 7574  Security Alert
+789          Privilege elevation detected for user 6942  Security Alert
+883   Elevation of admin privileges detected for use...  Security Alert
+1507         Privilege elevation detected for user 3965  Security Alert
+1747                Admin rights elevated for user 6519  Security Alert
+1790    Admin privilege elevation warning for user 8383  Security Alert

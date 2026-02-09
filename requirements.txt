@@ -1,0 +1,26 @@
+# Data Manipulation
+pandas
+
+# Machine Learning & Clustering
+scikit-learn
+sentence-transformers
+joblib
+
+# LLM Integration (Groq Cloud)
+groq
+python-dotenv
+
+# API & Backend
+fastapi
+uvicorn
+python-multipart
+
+# Visualization
+matplotlib
+seaborn
+
+# Web Interface
+streamlit
+xlxwriter
+"altair<5"
+standard-imghdr
