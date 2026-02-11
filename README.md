@@ -19,7 +19,7 @@ This project implements a hybrid log classification system, combining three comp
    - Used for handling complex patterns when sufficient labeled training data is not available.
    - Provides a fallback or complementary approach to the other methods.
 
-![architecture](resources/arch.png)
+![architecture](https://github.com/TammaTarunTeja/hybrid_log_classification_pipeline/blob/main/arch.png)
 
 ---
 
