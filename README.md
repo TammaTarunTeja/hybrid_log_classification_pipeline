@@ -66,7 +66,8 @@ This project implements a hybrid log classification system, combining three comp
    └── uv.lock
 ---
 
-## Setup Instructions
+## Setup Instructions 
+   Note : Get a API key from Groq cloud
 
 1. **Initialize UV **:
    ```bash
@@ -114,16 +115,23 @@ The output will be a CSV file with an additional column `Predicted Label`, which
 ## Classifications Reports
 
 Regex Classification Report 
+
 ![regex](https://github.com/TammaTarunTeja/hybrid_log_classification_pipeline/blob/main/regex.png)
 
+---
 Logistic Regression Classification Report 
+
 ![Logistic Regression](https://github.com/TammaTarunTeja/hybrid_log_classification_pipeline/blob/main/regression.png)
 
+---
 Hybrid Regression Classification Report 
+
 ![Hybrid Apporach](https://github.com/TammaTarunTeja/hybrid_log_classification_pipeline/blob/main/hybrid.png)
+
 
 NOTE : This is Synthetic data. May get low accuracy on real data.
 
+---
 ## Streamlit UI
 ![Streamlit APP](https://github.com/TammaTarunTeja/hybrid_log_classification_pipeline/blob/main/app.png)
 
